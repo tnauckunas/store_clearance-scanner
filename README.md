@@ -1,6 +1,6 @@
-# Home Depot & Lowe's Clearance Scanner (Python)
+# Home Depot & Lowe's Clearance Scanner (Python) > In Progress
 
-Discover hidden in-store clearance deals using Python-based scraping and location targeting. This project finds ultra-low-priced items (as low as $0.01) from major retail chains like Home Depot and Lowe’s — deals that are not listed publicly on their websites.
+Discover hidden in-store clearance deals using Python-based scraping and location targeting. This project finds ultra-low-priced items (as low as $0.01) from major retail chains like Home Depot and Lowe’s deals that are not listed publicly on their websites.
 
 ---
 

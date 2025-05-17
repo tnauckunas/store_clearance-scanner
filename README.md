@@ -40,8 +40,8 @@ clearance-scanner-suite/
 ├── assets/
 │   └── deal_proof_photos/
 ├── logs/
-│   ├── us_runs.md
-│   └── uk_runs.md
+│   ├── clearance_photos/
+│   └── learning_log.md
 ├── requirements.txt
 ├── .env.example
 └── README.md

@@ -9,7 +9,7 @@
 
 **What I Tried:**
 - Attempted to run scraper using Spyder IDE via Anaconda
-- Targeted HomeDepot product pages checked against [`robots.txt`](https://www.homedepot.com/robots.txt)
+- Targeted HomeDepot product pages checked against [`HomeDepot robots.txt`](https://www.homedepot.com/robots.txt)
 
 **Issues Faced:**
 - Spyder (via Anaconda) failed to support dynamic scraping flow

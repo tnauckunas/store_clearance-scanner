@@ -18,7 +18,6 @@ _A live development task log + learning tracker for the US/UK retail deal scrape
 **Learn + Apply:**
 
 ## Udemy Courses to Pull From
-Your core learning path for the Clearance Deal Scanner project (Python CLI).
 
 ---
 

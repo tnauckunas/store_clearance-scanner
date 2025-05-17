@@ -1,4 +1,4 @@
-# Clearance Deal Scanner Suite (US + UK)
+# Clearance Deal Scanner Suite (US + UK) > In Progress
 
 Python-based scanning toolkit for identifying hidden, offline, or mispriced clearance deals at major retail chains. Built for sourcing deeply discounted items (e.g., $0.01 Home Depot finds, Amazon Warehouse markdowns), this tool targets overlooked opportunities using legal automation and live-location filtering.
 

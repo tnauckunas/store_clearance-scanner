@@ -38,3 +38,29 @@
 **Next Move:**   
 
 </details>
+
+---
+
+<details>  
+
+<summary>Archive: May 19, 2025</summary>  
+
+**What I Studied:**   
+**What I Tried:** 
+**Issues Faced:**   
+**Next Move:**   
+
+</details>
+
+---
+
+<details>  
+
+<summary>Archive: May 20, 2025</summary>  
+
+**What I Studied:**   
+**What I Tried:** 
+**Issues Faced:**   
+**Next Move:**   
+
+</details>

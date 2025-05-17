@@ -15,10 +15,6 @@ _A live development task log + learning tracker for the US/UK retail deal scrape
 
 ## Web Scraping Skill Development
 
-
-## Udemy Courses to Pull From
-
-
 ### 1. Modern Web Scraping in Python
 - Most up-to-date
 - Covers `requests`, `BeautifulSoup`, `lxml`, `selenium`, anti-bot

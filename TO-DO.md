@@ -19,7 +19,7 @@ _A live development task log + learning tracker for the US/UK retail deal scrape
 - Most up-to-date
 - Covers `requests`, `BeautifulSoup`, `lxml`, `selenium`, anti-bot
 - Focuses on modern HTML structure, pagination, structured scraping  
-→ **Start with this course** to build your scanner’s skeleton.
+- [x]
 
 ---
 

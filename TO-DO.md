@@ -13,7 +13,7 @@ _A live development task log + learning tracker for the US/UK retail deal scrape
 
 ---
 
-## Web Scraping Skill Development
+## Web Scraping Skill Development From Udemy
 
 ### 1. Modern Web Scraping in Python
 - Most up-to-date

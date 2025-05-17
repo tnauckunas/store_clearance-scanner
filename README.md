@@ -50,7 +50,7 @@ clearance-scanner-suite/
 
 ## Development Roadmap
 
-See [`TO-DO.md`](https://github.com/tnauckunas/store_clearance-scanner/blob/c09a39392c590475bee51648cd13dba3d7484905/TO-DO.md) for active tasks, Udemy course references, and sprint progress log.
+See [`TO-DO.md`](https://github.com/tnauckunas/store_clearance-scanner/blob/ebc46e020b8c6aae7f7539dca761b3b05e8b59be/TO-DO.md) for active tasks, Udemy course references, and sprint progress log.
 
 ---
 

@@ -2,9 +2,9 @@
 
 <details>  
 
-<summary> Archive: May 17, 2025</summary>
+<summary> Archive: May 17, 2025</summary>  
 
-**What I Studied:**
+**What I Studied:**  
 - Completed: *Modern Web Scraping Fundamentals with Python (Udemy)*
 - Explored use of Anaconda with Spyder for web scraping
 
@@ -30,7 +30,7 @@
 
 <details>  
 
-<summary>Archive: May 18, 2025</summary>
+<summary>Archive: May 18, 2025</summary>  
 
 ** What I Studied:**   
 **What I Tried:**   

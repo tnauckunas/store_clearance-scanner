@@ -1,6 +1,6 @@
 ## Daily Engineering Log
 
-<details>
+<details>  
 <summary> Archive: May 17, 2025</summary>
 
 **What I Studied:**
@@ -27,7 +27,7 @@
 
 ---
 
-<details>
+<details>  
 <summary>Archive: May 18, 2025</summary>
 
 ** What I Studied:**   

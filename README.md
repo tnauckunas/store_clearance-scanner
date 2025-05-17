@@ -1,24 +1,50 @@
-# Home Depot & Lowe's Clearance Scanner (Python) > In Progress
+# Clearance Deal Scanner Suite (US + UK)
 
-Discover hidden in-store clearance deals using Python-based scraping and location targeting. This project finds ultra-low-priced items (as low as $0.01) from major retail chains like Home Depot and Lowe’s deals that are not listed publicly on their websites.
+Python-based scanning toolkit for identifying hidden, offline, or mispriced clearance deals at major retail chains. Built for sourcing deeply discounted items (e.g., $0.01 Home Depot finds, Amazon Warehouse markdowns), this tool targets overlooked opportunities using legal automation and live-location filtering.
 
 ---
 
-## Real Proof
-I’ve personally used this to buy items worth $700+ for as little as $0.01. Proof-of-purchase photos and receipts included under `assets/`.
+## Supported Retailers
+
+- 🇺🇸 Home Depot (US)
+- 🇺🇸 Lowe’s (US)
+- 🇺🇸 Amazon.com (Warehouse Deals)
+- 🇬🇧 Amazon UK (Open Box + Mispriced)
+- 🇬🇧 B&Q (Coming soon)
+- 🇬🇧 Screwfix / Toolstation (Scouting)
 
 ---
 
 ## Features
 
-- Scans store addresses by ZIP code or location range
-- Detects extreme price markdowns (e.g., $0.01 or $1.03)
-- Returns SKU, store ID, stock level, and pricing
-- Outputs to CSV or terminal for easy review
+- Store ID / ZIP code based filtering
+- Deal threshold targeting (e.g., items < $5 or < 90% MSRP)
+- Markdown logs + image receipts
+- Modular script support (one scanner per retailer)
+- Output to CSV / logs / CLI
+- Location-ready expansion (UK/EU coming soon)
 
 ---
 
 ## Project Structure
+
+```bash
+clearance-scanner-suite/
+├── src/
+│   ├── home_depot.py
+│   ├── lowes.py
+│   ├── amazon_us.py
+│   ├── amazon_uk.py
+│   ├── bnq_uk.py
+│   └── utils.py
+├── assets/
+│   └── deal_proof_photos/
+├── logs/
+│   ├── us_runs.md
+│   └── uk_runs.md
+├── requirements.txt
+├── .env.example
+└── README.md
 
 ---
 

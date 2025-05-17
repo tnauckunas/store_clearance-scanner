@@ -33,7 +33,7 @@ _A live development task log + learning tracker for the US/UK retail deal scrape
 - [ ] **Complete Python Web Scraping: Real Projects & Tools**  
 - [ ] **Scrapy Unleashed: Master Python Web Scraping & Pipelines**  
 
-> _ I'll mark ✅ once I've extracted usable code or added notes to logs._
+> _I'll mark ✅ once I've extracted usable code or added notes to logs._
 
 ---
 

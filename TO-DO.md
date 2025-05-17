@@ -17,23 +17,50 @@ _A live development task log + learning tracker for the US/UK retail deal scrape
 
 **Learn + Apply:**
 
-- [ ] `requests`, `httpx`, `aiohttp` basics (for static pages)  
-- [ ] `BeautifulSoup`, `lxml` (for parsing HTML content)  
-- [ ] `Selenium` and `undetected-chromedriver` (for dynamic JS pages)  
-- [ ] `Scrapy` architecture (for clean scalable pipelines)  
-- [ ] Anti-bot detection mitigation (headers, delays, proxies)  
+## Udemy Courses to Pull From
+Your core learning path for the Clearance Deal Scanner project (Python CLI).
 
 ---
 
-## Udemy Courses to Pull From
+### 1. Modern Web Scraping in Python
+- Most up-to-date
+- Covers `requests`, `BeautifulSoup`, `lxml`, `selenium`, anti-bot
+- Focuses on modern HTML structure, pagination, structured scraping  
+→ **Start with this course** to build your scanner’s skeleton.
 
-- [ ] **The Ultimate Web Scraping With Python Bootcamp 2024**  
-- [ ] **Web Scraping in Python Selenium, Scrapy + ChatGPT Prize 2024**  
-- [ ] **Scrape the Planet! Building Web Scrapers with Python**  
-- [ ] **Complete Python Web Scraping: Real Projects & Tools**  
-- [ ] **Scrapy Unleashed: Master Python Web Scraping & Pipelines**  
+---
 
-> _I'll mark ✅ once I've extracted usable code or added notes to logs._
+### 2. Master Python Web Scraping Automation using BS4 & Selenium
+- Full automation workflow (parse → store → export)
+- Crucial for dynamic content (e.g., Amazon product DOM)  
+→ **Study while implementing Amazon + Lowe’s**
+
+---
+
+### 3. Web Scraping & API Fundamentals in Python
+- REST API concepts + reusable CLI-friendly logic
+- Helps build flexible, multi-retailer compatible structure  
+→ **Use when developing `utils.py` + CLI**
+
+---
+
+### 4. Web Scraping Course in Python (BS4, Selenium, Scrapy)
+- Framework comparison (modular design thinking)
+- Good for mid-late stage development  
+→ **Use for reinforcing modularity**
+
+---
+
+### 5. Web Scraping with Python using Requests, lxml & Splash
+- Strong for JS-heavy pages
+- Introduces `Splash` (headless browser)  
+→ **Use only when HTML parsing fails due to JavaScript**
+
+---
+
+### 6. Web Scraping in Python: BS4 + Selenium
+- Covers edge cases and advanced patterns  
+→ **Use as fallback or for reference overlap**
 
 ---
 

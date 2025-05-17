@@ -32,9 +32,9 @@
 
 <summary>Archive: May 18, 2025</summary>  
 
-** What I Studied:**   
-**What I Tried:**   
-** Issues Faced:**   
-** Next Move:**   
+**What I Studied:**   
+**What I Tried:** 
+**Issues Faced:**   
+**Next Move:**   
 
 </details>

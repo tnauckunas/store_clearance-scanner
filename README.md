@@ -45,7 +45,7 @@ clearance-scanner-suite/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-
+```
 
 ---
 

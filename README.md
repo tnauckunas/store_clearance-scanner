@@ -26,7 +26,7 @@ Python-based scanning toolkit for identifying hidden, offline, or mispriced clea
 
 ---
 
-## Project Structure
+## Planned Project Structure
 
 ```bash
 clearance-scanner-suite/

@@ -67,7 +67,7 @@ Repo 4 will resume the moment I have full command of:
 - File handling
 - Argument parsing
 
-In the meantime, active logs are in [`python-mastery`](https://github.com/tnauckunas/dev-grind-vault/blob/83d13a7615bda011d2a9b6c486e051d9bec8fd8d/logs/learning_log.md).
+In the meantime, active logs are in [`python-mastery`](https://github.com/tnauckunas/dev-grind-vault/blob/573a94b9592a9376f1041a0276e220fa4a68b160/logs/learning_log.md).
 
 **What I Studied:**   
 **What I Tried:** 

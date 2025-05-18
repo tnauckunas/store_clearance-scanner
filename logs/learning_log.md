@@ -59,18 +59,15 @@ Momentum restored.
 
 <summary>Archive: May 18, 2025</summary>  
 
-**What I Studied:**   
-**What I Tried:** 
-**Issues Faced:**   
-**Next Move:**   
+I'm currently going through the Python Bootcamp to reinforce my fundamentals before completing the scanner.
 
-</details>
+Repo 4 will resume the moment I have full command of:
+- CLI scripting
+- Web scraping architecture
+- File handling
+- Argument parsing
 
----
-
-<details>  
-
-<summary>Archive: May 19, 2025</summary>  
+In the meantime, active logs are in [`python-mastery`](https://github.com/tnauckunas/dev-grind-vault/blob/83d13a7615bda011d2a9b6c486e051d9bec8fd8d/logs/learning_log.md).
 
 **What I Studied:**   
 **What I Tried:** 
@@ -81,13 +78,3 @@ Momentum restored.
 
 ---
 
-<details>  
-
-<summary>Archive: May 20, 2025</summary>  
-
-**What I Studied:**   
-**What I Tried:** 
-**Issues Faced:**   
-**Next Move:**   
-
-</details>

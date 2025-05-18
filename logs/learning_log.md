@@ -24,6 +24,33 @@
   - Operates within public-facing product endpoints
   - Supports category-based CLI structure
 
+----
+
+**Further Update**
+
+ Realization During Course: Tools Aren’t Enough and They Have to *Fit the Mission*
+
+While going through the first quarter of *Modern Web Scraping Fundamentals (Udemy)*, I hit a critical realization. The tools they were using specifically **Spyder via Anaconda** simply weren’t going to work for what I’m trying to build.
+
+Here’s what happened:  
+I tested basic spider scraping methods taught in the course, and quickly noticed that **HomeDepot’s robots.txt actively disallows most of the key routes** I needed.  
+Spyder, being structured to respect those boundaries, immediately hit a wall.  
+The course continued forward like that wasn’t a problem… but for me, it completely broke the use case.
+
+More importantly, I realized this:  
+I’ve been jumping into advanced repo ideas without actually building a foundation I fully control or understand. Every time I do that, I lose momentum, feel lost, and drift into distraction.
+
+Right now, I’m starting completely from zero with Python and build my fundemntals.  
+It feels weird to say that, but it’s honest.  
+This time though, I’m not learning Python just to learn it.  
+I’m learning it because I’ve got a repo to build.  
+A working clearance scanner CLI. With real output.
+
+> I’m done studying without a mission.  
+> If I study, it’s to build. And if I build, I finish.
+
+Momentum restored.
+
 </details>
 
 ---
